@@ -1,0 +1,11 @@
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\bin\Debug\Flappy Bird - Game.exe.config
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\bin\Debug\Flappy Bird - Game.exe
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\bin\Debug\Flappy Bird - Game.pdb
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.csproj.AssemblyReference.cache
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy_Bird___Game.Flappy.resources
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy_Bird___Game.Properties.Resources.resources
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.csproj.GenerateResource.cache
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.csproj.CoreCompileInputs.cache
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.exe
+C:\Users\Asmir\source\repos\Flappy Bird - Game\Flappy Bird - Game\obj\Debug\Flappy Bird - Game.pdb
